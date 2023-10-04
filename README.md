@@ -1,9 +1,9 @@
 # WorkPlaceDudes Meetup October 4th, 2023
 
-Thanks for visiting the (https:/www.workplacedudes.nl)[Workplacedudes] meetup!
-The (m365dsc.pptx)[slides] can be found on my Github repository.
+Thanks for visiting the [Workplacedudes](https:/www.workplacedudes.nl) meetup!
+The [slides](m365dsc.pptx) can be found on my Github repository.
 
-If you want help with your journey on using (https://microsoft365dsc.com/)[Microsoft365DSC], visit the product website. There, you can also find the h(ttps://office365dsc.azurewebsites.net/Pages/Resources/Whitepapers/Managing%20Microsoft%20365%20with%20Microsoft365Dsc%20and%20Azure%20DevOps.pdf)[whitepaper] on integrating M365DSC with Azure DevOps.
+If you want help with your journey on using [Microsoft365DSC](https://microsoft365dsc.com/), visit the product website. There, you can also find the [whitepaper](https://office365dsc.azurewebsites.net/Pages/Resources/Whitepapers/Managing%20Microsoft%20365%20with%20Microsoft365Dsc%20and%20Azure%20DevOps.pdf) on integrating M365DSC with Azure DevOps.
 
 Finaly, below are the code snippets used during my presentation
 ```powershell
@@ -44,6 +44,6 @@ Remove-DSCConfigurationDocument -Stage Current
 
 
 
-If you have any furhter questions, reach out to me on (https://twitter.com/ralpje)[Twitter / X], (https://linkedin.com/in/ralpheckhard)[LinkedIn], or by contacting me through my (https://ralpheckhard.com)[website].
+If you have any furhter questions, reach out to me on [Twitter / X](https://twitter.com/ralpje), [LinkedIn](https://linkedin.com/in/ralpheckhard), or by contacting me through my [website](https://ralpheckhard.com).
 
 Have fun managing your M365 setup as code!
