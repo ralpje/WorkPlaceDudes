@@ -1,7 +1,7 @@
 # WorkPlaceDudes Meetup October 4th, 2023
 
 Thanks for visiting the [Workplacedudes](https:/www.workplacedudes.nl) meetup!
-The [slides](m365dsc.pptx) can be found on my Github repository.
+The [slides](https://github.com/ralpje/WorkPlaceDudes/blob/main/M365DSC.pptx) can be found on my Github repository.
 
 If you want help with your journey on using [Microsoft365DSC](https://microsoft365dsc.com/), visit the product website. There, you can also find the [whitepaper](https://office365dsc.azurewebsites.net/Pages/Resources/Whitepapers/Managing%20Microsoft%20365%20with%20Microsoft365Dsc%20and%20Azure%20DevOps.pdf) on integrating M365DSC with Azure DevOps.
 
